@@ -7,7 +7,7 @@
 ## Integrantes
 
 - Felipe Pereira de Padua
-- BJoão Augusto Ferreira Nogueira
+- João Augusto Ferreira Nogueira
 
 ## Professor
 
